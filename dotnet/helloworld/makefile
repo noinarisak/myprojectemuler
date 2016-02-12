@@ -7,6 +7,9 @@ all: run
 build: clean
 	$(CC) build
 
+restore: clean
+	$(CC) restore
+
 run:
 	$(EXECULABLE) run
 
