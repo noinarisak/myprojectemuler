@@ -5,4 +5,4 @@ Find the sum of all the multiples of 3 or 5 below 1000.
 
 
 ## v1 attempt
-Completed on 2.12.2016
+Not completed
